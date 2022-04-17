@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+nav {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -84,11 +84,11 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
-.location {
+.tagline {
   background-color: #222;
   color: white;
 }
-.card {
+.main-block-small {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 
-.resume-card {
+.main-block-large {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 900px;
