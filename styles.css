@@ -46,7 +46,7 @@ nav {
     color: white;
 }
 .nav li {
-  padding: 5px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
 }
 .nav a {
   transition: all .5s;
@@ -130,6 +130,10 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+}
+
+.company-logo {
+  border: solid 5px black;
 }
 
 footer {
